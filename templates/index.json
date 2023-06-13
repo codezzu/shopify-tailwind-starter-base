@@ -214,7 +214,7 @@
     "4d9cd270-d711-4977-a063-9a44cf0fc613": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<body>\n  <h1 class=\"text-3xl font-bold underline\">\n    Hello world!\n  <\/h1>\n<\/body>",
+        "custom_liquid": "<body>\n  <h1 class=\"twcss-text-3xl twcss-font-bold twcss-underline\">\n    Hello world!\n  <\/h1>\n<\/body>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
